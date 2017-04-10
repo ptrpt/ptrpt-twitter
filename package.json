@@ -1,0 +1,24 @@
+{
+  "name": "ptrpt-twitter",
+  "version": "0.2.1",
+  "description": "Allows the user to authenticate, redirect user to Twitter login and publish tweets on their behalf.",
+  "main": "ptrpt-twitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "1.1",
+    "api"
+  ],
+  "author": "Ptrpt",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.2.0",
+    "crypto": "0.0.3",
+    "form-data": "^2.1.2",
+    "https": "^1.0.0",
+    "querystring": "^0.2.0",
+    "url": "^0.11.0"
+  }
+}
